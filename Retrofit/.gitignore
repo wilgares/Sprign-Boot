@@ -33,10 +33,7 @@ local.properties
 .buildpath
 
 # sbteclipse plugin
-Retrofit/.target
-Retrofit/.classpath
-Retrofit/.project
-Retrofit/target*
+.target
 
 # Tern plugin
 .tern-project
